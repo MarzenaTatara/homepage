@@ -63,8 +63,7 @@ html {
     font-size: 22px;
     line-height: 2;
     word-spacing: 1cm;
-    text-shadow: 5px 3px 6px rgb(6, 57, 16);
-    background-color: rgb(119, 236, 197);
+    background-color: rgb(203 245 231);
     margin-left: 5px;
     margin-right: 5px;
     margin-top: 0px;
@@ -118,7 +117,7 @@ html {
 }
 
 .body--pinkBackground {
-    background-color: rgb(174, 231, 186);
+    background-color: #eee;
 }
 
 .button {
