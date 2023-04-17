@@ -27,7 +27,6 @@ html {
 .article {
     max-width: 600px;
     padding: 20px;
-    box-shadow: 2px 2px 8px #ccc;
     margin: 20px auto;
 }
 
@@ -58,23 +57,15 @@ html {
 }
 
 .navigation {
-    color: rgb(19, 3, 3);
+    color: rgb(4, 88, 58);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
-    line-height: 2;
+    line-height: 1, 5;
     word-spacing: 1cm;
-<<<<<<< HEAD
-    background-color: rgb(203 245 231);
-=======
-    background-color: rgb(119 236 197 / 36%);
->>>>>>> e2e346093edba069d10235150079b04f5d63d1d0
     margin-left: 5px;
     margin-right: 5px;
     margin-top: 0px;
     padding: 0px 30px;
-    border: 10px rgb(6, 57, 16);
-    border-style: double;
-    outline: 10px rgb(8, 75, 21);
     width: 465x;
 }
 
@@ -97,31 +88,34 @@ html {
 
 .personTitle {
     color: rgb(19, 3, 3);
-    background-color: rgb(119 236 197 / 36%);
-    margin-left: 50px;
+    margin-left: 130px;
     margin-right: 50px;
     margin-top: 30px;
     padding: 20px 50px;
-    border: 10px rgb(6, 57, 16);
-    border-style: double;
     outline: 10px rgb(8, 75, 21);
 }
 
 .personTitle__image {
-    padding-left: 10px;
-    border-radius: 20px;
-    margin-left: 40px;
+    margin-left: 311px;
+    border-radius: 50%;
+}
+
+.image {
+    max-width: 300px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-left: 300px;
 }
 
 .body {
-    background-color: rgb(181, 187, 187);
+    background-color: rgb(192 202 235);
     font-family: 'Lato', sans-serif;
     max-width: 1000px;
     margin: 0 auto;
 }
 
 .body--pinkBackground {
-    background-color: #eee;
+    background-color: white;
 }
 
 .button {
@@ -138,13 +132,9 @@ html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     line-height: 2;
-    text-shadow: 5px 3px 6px rgb(6, 57, 16);
-    background-color: rgb(119, 236, 197);
     max-width: 308px;
     padding: 45px 3px;
     padding-left: 10px;
-    border: 10px rgb(6, 57, 16);
-    border-style: double;
     outline: 10px rgb(8, 75, 21);
 }
 
