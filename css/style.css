@@ -31,7 +31,7 @@ html {
 }
 
 .article__header {
-    color: rgb(2, 38, 26);
+    color: #397872;
     font-style: italic;
     line-height: 1.5;
     text-align: center;
@@ -40,26 +40,20 @@ html {
 .article__paragraph {
     line-height: 1.5;
     text-align: center;
-    color: rgb(5, 80, 46);
+    color: black;
 }
 
 .article__paragraph--highlighted {
-    color: #72579f;
-}
-
-.article--light {
-    background: #ccc;
-
+    color: black;
 }
 
 .article--light .article__paragraph {
-    color: #00796b;
+    color: black;
 }
 
 .navigation {
-    color: rgb(4, 88, 58);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 22px;
+    color: black;
+    font-size: 15px;
     line-height: 1, 5;
     word-spacing: 1cm;
     margin-left: 5px;
@@ -87,12 +81,12 @@ html {
 }
 
 .personTitle {
-    color: rgb(19, 3, 3);
+    color: #397872;
     margin-left: 130px;
     margin-right: 50px;
     margin-top: 30px;
     padding: 20px 50px;
-    outline: 10px rgb(8, 75, 21);
+    outline: 10px #397872;
 }
 
 .personTitle__image {
@@ -102,7 +96,7 @@ html {
 
 .image {
     max-width: 300px;
-    border: 1px solid black;
+    border: 1px solid #397872;
     border-radius: 50px;
     margin-left: 300px;
 }
@@ -127,15 +121,20 @@ html {
     box-shadow: 0 0 0 1.5px;
 }
 
+.buttonSpace {
+    margin-top: 40px;
+}
+
 .side {
     color: rgb(19, 3, 3);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     line-height: 2;
     max-width: 308px;
     padding: 45px 3px;
     padding-left: 10px;
-    outline: 10px rgb(8, 75, 21);
+    outline: 10px rgb(19, 3, 3);
+    margin-left: 670px;
+    margin-top: -380px;
 }
 
 .side__link {
@@ -215,7 +214,7 @@ html {
 }
 
 .footer {
-    border: 2px rgb(6, 57, 16);
+    border: 2px rgb(19, 3, 3);
     border-style: inset;
     padding: 20px 135px;
 }
