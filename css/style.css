@@ -9,15 +9,15 @@ html {
 }
 
 .section__firsth {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .section__second {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .section__third {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Lato', sans-serif;
 }
 
 .section__link {
@@ -195,6 +195,10 @@ html {
 .morningList {
     padding-left: 20px;
     margin: 50px;
+}
+
+.Myfavorit {
+    color: #397872;  
 }
 
 .list__item {
