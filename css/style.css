@@ -116,7 +116,7 @@ html {
     margin: 5px 10px 5px 5px;
     padding: 0px 20px;
     border-style: none;
-    background-color:#5eebbc;
+    background-color: #3978724f;
     border-radius: 20px;
     box-shadow: 0 0 0 1.5px;
 }
@@ -139,6 +139,14 @@ html {
 
 .side__link {
     font-size: 15px;
+}
+
+.side--decoration {
+    color: #397872;
+}
+
+.decoration {
+    text-decoration: none;
 }
 
 .table {
@@ -198,7 +206,7 @@ html {
 }
 
 .Myfavorit {
-    color: #397872;  
+    color: #397872;
 }
 
 .list__item {
