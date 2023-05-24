@@ -17,3 +17,8 @@ I hope it catches your eye and you find something cool about it.
 - JavaScript
 - konwencja Bem
 - Normalize
+- Markdown
+- ES6+ features
+
+## Author
+Marzena Tatara
