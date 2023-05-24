@@ -1,8 +1,7 @@
 # Marzena Tatara - my homepage
 
 ## Demo
-
-https://github.com/MarzenaTatara/homepage.git
+https://marzenatatara.github.io/homepage/
 
 ![Marzena](https://github.com/MarzenaTatara/homepage/blob/f059a67b990c2550a5471369477190a266fed3ec/images/Marzena2.jpg)
 
