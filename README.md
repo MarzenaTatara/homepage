@@ -4,7 +4,7 @@
 
 https://github.com/MarzenaTatara/homepage.git
 
-![Marzena](https://user-images.githubusercontent.com/129663814/229370611-c165dba2-bcb3-4985-b030-5234f980b6f3.jpg)
+![Marzena](https://github.com/MarzenaTatara/homepage/blob/27fc345d01db4b286fc6bf6f0089155f90729144/images/Marzena2.jpg)
 
 ## Description!
 Hello!
