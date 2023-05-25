@@ -4,8 +4,8 @@
     }
     welcome();
 
-    let removeHeaderButton = document.querySelector(".js-removeHeaderButton");
-    let personTitle = document.querySelector(".personTitle");
+    const removeHeaderButton = document.querySelector(".js-removeHeaderButton");
+    const personTitle = document.querySelector(".personTitle");
 
     removeHeaderButton.addEventListener("click", () => {
         personTitle.remove();
@@ -13,7 +13,7 @@
 
 
     const toggleBackground = () => {
-        const body = document.documentElement;
+        const body = document.querySelector(".body");
         const backgroundName = document.querySelector(".js-backgroundName");
 
         body.classList.toggle("body--pinkBackground");
